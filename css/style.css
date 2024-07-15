@@ -1,0 +1,31 @@
+
+.home{
+    background-image: url(../img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+padding: 20px;
+    font-size: 80px;
+    font-family: Impact;
+   
+}
+
+p {
+    font-size: 35px;
+    font-family: "Times New Roman";
+  
+}
+
+.btn-my{
+    width: 250px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    transition: all 0.2s ease-in-out;
+    
+}
+.btn-my:hover{
+    background-color: white;
+    color: black;
+}
